@@ -1,4 +1,4 @@
-## 🚀 Zealous and Innovative Data Scientist | ML Engineer 🚀
+## 🚀 Innovative Data Scientist | ML Engineer 🚀
 
 Greetings! 👋 I'm Atharv, a forward-thinking and results-driven Data Scientist and Machine Learning Engineer with a Master's in Data Science from Indiana University. My journey in the realm of technology and data has equipped me with a robust skill set, blending technical expertise with a passion for solving real-world problems.
 
