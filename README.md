@@ -1,6 +1,6 @@
-## 🚀 Innovative Data Scientist | ML Engineer 🚀
+ML Engineer
 
-Greetings! 👋 I'm Atharv, a forward-thinking and results-driven Data Scientist and Machine Learning Engineer with a Master's in Data Science from Indiana University. My journey in the realm of technology and data has equipped me with a robust skill set, blending technical expertise with a passion for solving real-world problems.
+<!--- Greetings! 👋 I'm Atharv, a forward-thinking and results-driven Data Scientist and Machine Learning Engineer with a Master's in Data Science from Indiana University. My journey in the realm of technology and data has equipped me with a robust skill set, blending technical expertise with a passion for solving real-world problems.
 
 ## 🔍 Key Qualifications:
  - Proficient in Python, R, and SQL, and experienced in utilizing tools such as Tableau, PowerBI, Hadoop, Spark, and more.
@@ -23,3 +23,4 @@ Greetings! 👋 I'm Atharv, a forward-thinking and results-driven Data Scientist
  - Successfully constructed a deep learning model for skin cancer detection, achieving an accuracy of 85% on the MNIST: HAM10000 dataset.
 
 ### Let's connect and explore opportunities to leverage data science and machine learning for impactful solutions! 🚀 #DataScience #MachineLearning #DataScientist #TechInnovation #Python #AI #Analytics
+--->
